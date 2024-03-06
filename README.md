@@ -1,4 +1,5 @@
 Overview:
+
 The Automated Resume Analysis project is a comprehensive solution designed to streamline the recruitment process through advanced Natural Language Processing (NLP) techniques. Leveraging SpaCy for entity recognition and various NLP tools for text analysis, this project aims to automate candidate screening and skill matching, thereby expediting the hiring process for recruiters and hiring managers.
 
 Key Features:
